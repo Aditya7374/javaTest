@@ -1,3 +1,9 @@
+/*
+Q4:Write a Java Program to find the duplicate characters in a string.
+
+*/
+
+
 public class DuplStr {
  public static void main(String argu[]) {
 
